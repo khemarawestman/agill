@@ -22,5 +22,5 @@ jobs:
         run: npm install
 
       - name: Run tests
-        working-directory: './StarBowling-main' 
+        working-directory: './StrajkBowling' 
         run: npm run test
